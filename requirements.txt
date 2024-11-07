@@ -1,0 +1,7 @@
+inflection==0.5.1
+millify==0.1.1
+numpy==2.1.0
+pandas==2.2.2
+Pillow==10.4.0
+plotly==5.24.1
+streamlit==1.39.0
